@@ -2,4 +2,4 @@
 test repository
 
 only test.
-i'm learning github ...
+i'm learning github ... especially Pull requests.
